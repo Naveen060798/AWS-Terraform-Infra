@@ -1,7 +1,7 @@
 AWS Infrastructure Deployment with Terraform
 This project automates the provisioning of a secure, scalable AWS environment. It includes a custom VPC, multiple public subnets for high availability, an Application Load Balancer (ALB), and S3 integration.
 
-🏗️ Architecture Overview
+Architecture Overview
 The infrastructure consists of the following components:
 
 VPC: A dedicated Virtual Private Cloud (CIDR: 172.16.0.0/16).
