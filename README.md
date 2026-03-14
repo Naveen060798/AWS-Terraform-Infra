@@ -15,3 +15,5 @@ Load Balancing: An Application Load Balancer (ALB) to distribute incoming traffi
 Networking: An Internet Gateway (IGW) to allow communication between the VPC and the internet.
 
 Storage: An Amazon S3 bucket for persistent data storage or static assets.
+
+
